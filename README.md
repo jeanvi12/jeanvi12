@@ -67,7 +67,7 @@
 
 ### 📊 Estatísticas
 
-| ![GitHub Stats](https://githubestatisticas-jeanviesks-projects.vercel.app/api?username=jeanvi12&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)  | ![Linguagens](https://githubestatisticas-jeanviesks-projects.vercel.app/api/top-langs/?username=jeanvi12&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
+| ![GitHub Stats](https://github-estatisticas-jeanvi12.vercel.app/api?username=jeanvi12&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)  | ![Linguagens](https://github-estatisticas-jeanvi12.vercel.app/api/top-langs/?username=jeanvi12&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
 |---|---|
 
 
